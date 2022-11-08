@@ -1,22 +1,22 @@
 h1 {
-    font-size: ;
-    font-family: ;
+    font-size: 4em;
+    font-family: 'Courier New', Courier, monospace;
     padding: ;
-    margin: ;
+    margin: 100px;
     font-weight: ;
-    text-decoration: ;
-    color: ;
+    text-decoration: underline;
+    color: purple;
     background-color: ;
 }
 
 h2 {
-    font-size: ;
+    font-size: 2em;
     font-family: ;
     padding: ;
     margin: ;
     font-weight: ;
-    color: ;
-    background-color: ;
+    color: goldenrod;
+    background-color:pink ;
 }
 
 p {
@@ -30,8 +30,8 @@ p {
 
 .logo {
     background-size: cover;
-    background-image: url();
-    background-color: ;
-    height: ;
-    width: ;
+    background-image: url("https://appacademy.github.io/styleguide/assets/logo/logo-emblem-black-1000.png");
+    background-color ;
+    height: 400px;
+    width: 50%;
 }
